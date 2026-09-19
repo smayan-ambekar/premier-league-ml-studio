@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Environment
+.env
+
+# Data (large/raw - sample data will be committed seperately later)
+data/raw/
+data/processed/
+
+# Model artifacts (trained models aren't committed yet - added deliberately later)
+artifacts/models/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+
+# Tooling
+.pytest_cache/
+.ruff_cache/
