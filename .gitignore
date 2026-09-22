@@ -24,3 +24,8 @@ artifacts/models/
 # Tooling
 .pytest_cache/
 .ruff_cache/
+
+# Anaconda/Jupyter Artifacts
+anaconda_projects/
+.virtual_documents/
+.ipynb_checkpoints/
