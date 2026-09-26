@@ -6,3 +6,4 @@ pytest
 jupyterlab
 ipykernel
 matplotlib
+scikit-learn
